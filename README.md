@@ -2,7 +2,7 @@
 
 # 🎓 Exercise 20/50: Santa's Weighing Scale
 
-A JavaScript exercise focused on array iteration, numerical calculations, and conditional logic to analyze toy weights, with an optional challenge involving mixed data types and type conversion.
+Array iteration, numerical calculations, and conditional logic to analyze toy weights, with an optional challenge involving mixed data types and type conversion.
 
 ## 📌 Project Overview
 
