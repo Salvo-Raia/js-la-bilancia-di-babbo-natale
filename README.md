@@ -1,6 +1,8 @@
-![Boolean Tech Academy](https://img.shields.io/badge/Boolean_Tech_Academy-001632?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Boolean_Tech_Academy-1565C0?style=for-the-badge)
 
-# 🎓 Exercise 20/50 - Santa's Weighing Scale
+# 🎓 Exercise 20/50: Santa's Weighing Scale
+
+A JavaScript exercise focused on array iteration, numerical calculations, and conditional logic to analyze toy weights, with an optional challenge involving mixed data types and type conversion.
 
 ## 📌 Project Overview
 
@@ -21,8 +23,6 @@ The program must ask the user which operation they want to perform, allowing the
 - **Maximum Weight:** return the weight of the heaviest toy.
 - **Minimum Weight:** return the weight of the lightest toy.
 - **Number of Toys:** return the total number of toys weighed.
-
-### 📦 Provided Data
 
 Two arrays are provided for this exercise.
 
@@ -67,4 +67,4 @@ Pay attention to the different data types in the array and consider how they aff
 
 ## ©️ Credits
 
-Exercise assigned by **Boolean Tech Academy** as part of the Web Development course - Class 152 - Year 2025-2026
+Exercise assigned by **Boolean Tech Academy** as part of the Web Development course (Class 152, A.Y. 2025–2026).
