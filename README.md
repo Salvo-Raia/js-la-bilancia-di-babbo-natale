@@ -1,19 +1,16 @@
 ![Static Badge](https://img.shields.io/badge/Boolean_Tech_Academy-1565C0?style=for-the-badge)
 
-# 🎓 Exercise 20/50: Santa's Weighing Scale
+# Exercise 20/50: Santa's Weighing Scale
 
 Array iteration, numerical calculations, and conditional logic to analyze toy weights, with an optional challenge involving mixed data types and type conversion.
 
-## 📌 Project Overview
+## Project overview
 
-| Property | Details |
-|:--|:--|
-| Repository | js-la-bilancia-di-babbo-natale |
-| Category | Boolean Tech Academy |
-| Type | Exercise |
-| Exercise | 20/50 |
+| Repository | Project | Category | Main Focus | Exercise |
+|:--|:--|:--|:--|:--|
+| js-la-bilancia-di-babbo-natale | Santa's Weighing Scale | Exercise | JavaScript Arrays, Loops & Conditionals | 20/50 |
 
-## 🎯 Assignment
+## Assignment
 
 You are given an array containing the weights of the latest toys produced at Santa's workshop.
 
@@ -28,7 +25,7 @@ Two arrays are provided for this exercise.
 
 **Base Array**
 
-Use this array to complete the main assignment:
+Use this array to complete the main assignment.
 
 ```javascript
 let pesiBase = [2, 5, 1, 1, 7, 3, 12, 6, 9, 3];
@@ -36,7 +33,7 @@ let pesiBase = [2, 5, 1, 1, 7, 3, 12, 6, 9, 3];
 
 **Bonus Array**
 
-A second, more challenging array is also provided. Use it only for the optional bonus task:
+A second, more challenging array is also provided. Use it only for the optional bonus challenge.
 
 ```javascript
 let pesiBonus = [2, "5", 1, 1, "7", null, 12, 6, 9, 3];
@@ -44,17 +41,17 @@ let pesiBonus = [2, "5", 1, 1, "7", null, 12, 6, 9, 3];
 
 The bonus array contains values with different data types, including strings and `null`, making the calculations more challenging.
 
-## ⭐ Bonus
+#### Bonus challenge
 
 Repeat the exercise using `pesiBonus` instead of `pesiBase`.
 
 Pay attention to the different data types in the array and consider how they affect the calculations.
 
-## 🛠️ Technologies
+## Technologies
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-## 💡 What I Learned
+## What I learned
 
 - Working with arrays and numerical data.
 - Iterating through arrays using loops.
@@ -65,6 +62,6 @@ Pay attention to the different data types in the array and consider how they aff
 - Understanding JavaScript data types and type conversion.
 - Managing mixed values when performing numerical calculations.
 
-## ©️ Credits
+## Credits
 
-Exercise assigned by **Boolean Tech Academy** as part of the Web Development course (Class 152, A.Y. 2025–2026).
+Exercise assigned by **Boolean Tech Academy** as part of the Web Development course (Class 152, A.Y. 2025-2026).
