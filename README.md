@@ -8,7 +8,7 @@ Array iteration, numerical calculations, and conditional logic to analyze toy we
 
 | Repository | Project | Category | Main Focus | Exercise |
 |:--|:--|:--|:--|:--|
-| js-la-bilancia-di-babbo-natale | Santa's Weighing Scale | Exercise | JavaScript Arrays, Loops & Conditionals | 20/50 |
+| js-la-bilancia-di-babbo-natale | Santa's Weighing Scale | Exercise | JavaScript arrays, for loops & Conditionals | 20/50 |
 
 ## Assignment
 
@@ -27,17 +27,9 @@ Two arrays are provided for this exercise.
 
 Use this array to complete the main assignment.
 
-```javascript
-let pesiBase = [2, 5, 1, 1, 7, 3, 12, 6, 9, 3];
-```
-
 **Bonus Array**
 
 A second, more challenging array is also provided. Use it only for the optional bonus challenge.
-
-```javascript
-let pesiBonus = [2, "5", 1, 1, "7", null, 12, 6, 9, 3];
-```
 
 The bonus array contains values with different data types, including strings and `null`, making the calculations more challenging.
 
