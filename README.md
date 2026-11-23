@@ -35,7 +35,7 @@ The bonus array contains values with different data types, including strings and
 
 #### Bonus challenge
 
-Repeat the exercise using `pesiBonus` instead of `pesiBase`.
+Try to complete the exercise again using `pesiBonus` instead of `pesiBase`.
 
 Pay attention to the different data types in the array and consider how they affect the calculations.
 
