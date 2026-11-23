@@ -8,7 +8,7 @@ Array iteration, numerical calculations, and conditional logic to analyze toy we
 
 | Repository | Project | Category | Main Focus | Exercise |
 |:--|:--|:--|:--|:--|
-| js-la-bilancia-di-babbo-natale | Santa's Weighing Scale | Exercise | JavaScript, arrays, for loops & Conditionals | 20/50 |
+| js-la-bilancia-di-babbo-natale | Santa's Weighing Scale | Exercise | JavaScript, arrays, for loops, conditionals | 20/50 |
 
 ## Assignment
 
