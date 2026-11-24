@@ -23,13 +23,8 @@ The program must ask the user which operation they want to perform, allowing the
 
 Two arrays are provided for this exercise.
 
-**Base Array**
-
-Use this array to complete the main assignment.
-
-**Bonus Array**
-
-A second, more challenging array is also provided. Use it only for the optional bonus challenge.
+- **Base Array** - Use this array to complete the main assignment.
+- **Bonus Array** - A second, more challenging array is also provided. Use it only for the optional bonus challenge.
 
 The bonus array contains values with different data types, including strings and `null`, making the calculations more challenging.
 
